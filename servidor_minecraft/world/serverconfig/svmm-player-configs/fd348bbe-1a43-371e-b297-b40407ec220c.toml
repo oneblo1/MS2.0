@@ -1,0 +1,24 @@
+
+[svmm-player-fd348bbe-1a43-371e-b297-b40407ec220c]
+
+	[svmm-player-fd348bbe-1a43-371e-b297-b40407ec220c.self-config]
+		#Condition for when the mod is triggered
+		#Allowed Values: SHIFT_HELD, SHIFT_NOT_HELD, ALWAYS
+		trigger_when = "SHIFT_NOT_HELD"
+
+	[svmm-player-fd348bbe-1a43-371e-b297-b40407ec220c.toggles]
+		#Whether or not the player disabled the mod for themselves
+		mod_disabled = false
+		#Whether or not the player disabled giant vein mining for themselves
+		giant_vein_mining_disabled = false
+
+	[svmm-player-fd348bbe-1a43-371e-b297-b40407ec220c.restrictions]
+		#Whether or not the mod was restricted by an operator
+		mod_restricted = false
+		#Whether or not giant vein mining was restricted by an operator
+		giant_vein_mining_restricted = false
+		#Whether or not tunneling was restricted by an operator
+		tunneling_restricted = false
+		#Whether or not /svmm force was restricted by an operator
+		force_restricted = true
+

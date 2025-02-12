@@ -1,0 +1,47 @@
+{
+  "min_damage_to_get_bleeding_potion_effect": 6,
+  "chance_to_get_bleeding_potion_effect": 0.97,
+  "bleeding_potion_effect_time_last": 0.5,
+  "bleeding_potion_effect_chance_to_bleed_per_tick_out_of": 1,
+  "normal_blood_amount_mod": 2,
+  "small_blood_amount_mod": 3,
+  "large_blood_amount_mod": 0.5,
+  "highlight_blood_amount_mod": 1,
+  "small_blood_min_damage": 3,
+  "large_blood_min_damage": 8,
+  "highlight_blood_min_damage": 4,
+  "blood_area_size_mod": 0.5,
+  "normal_blood_speed": 0.1,
+  "small_blood_speed": 0.15,
+  "large_blood_speed": 0.1,
+  "blacklist_entities_max": 2,
+  "blacklist_entities": {
+    "blacklist_entity_1": "minecraft:skeleton",
+    "blacklist_entity_2": "minecraft:wither_skeleton"
+  },
+  "aqua_blood_entities_max": 0,
+  "aqua_blood_entities": {
+    "aqua_blood_entity_1": "minecraft:skeleton"
+  },
+  "white_blood_entities_max": 1,
+  "white_blood_entities": {
+    "white_blood_entity_1": "minecraft:ender_dragon"
+  },
+  "black_blood_entities_max": 1,
+  "black_blood_entities": {
+    "black_blood_entity_1": "minecraft:blaze"
+  },
+  "green_blood_entities_max": 2,
+  "green_blood_entities": {
+    "green_blood_entity_1": "minecraft:creeper",
+    "green_blood_entity_2": "minecraft:slime"
+  },
+  "purple_blood_entities_max": 1,
+  "purple_blood_entities": {
+    "purple_blood_entity_1": "minecraft:enderman"
+  },
+  "orange_blood_entities_max": 1,
+  "orange_blood_entities": {
+    "orange_blood_entity_1": "minecraft:magma_cube"
+  }
+}
