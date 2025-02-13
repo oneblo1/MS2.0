@@ -107,15 +107,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-02-12 19:06:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-02-12 19:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-02-12 19:06:57 +0000"
     },
     "done": true
   },
@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 19:55:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-02-12 19:23:21 +0000"
@@ -335,15 +341,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-12 19:09:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/frying_pan": {
     "criteria": {
       "has_leather": "2025-02-12 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-12 19:09:40 +0000"
     },
     "done": true
   },
@@ -419,15 +425,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_slab": {
-    "criteria": {
-      "has_diorite": "2025-02-12 19:09:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-02-12 19:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-02-12 19:09:44 +0000"
     },
     "done": true
   },
@@ -605,15 +611,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-02-12 19:26:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-12 19:09:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-02-12 19:26:45 +0000"
     },
     "done": true
   },
@@ -701,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 19:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-12 19:04:21 +0000"
@@ -743,15 +755,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
-    "criteria": {
-      "has_granite": "2025-02-12 19:09:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/spatula": {
     "criteria": {
       "has_leather": "2025-02-12 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-02-12 19:09:40 +0000"
     },
     "done": true
   },
@@ -839,15 +851,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-02-12 19:25:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2025-02-12 19:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-02-12 19:25:03 +0000"
     },
     "done": true
   },
@@ -985,15 +997,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/chicken": {
+    "criteria": {
+      "has_feather": "2025-02-12 19:23:21 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/red_trampoline": {
     "criteria": {
       "has_string": "2025-02-12 19:25:03 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/chicken": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "has_feather": "2025-02-12 19:23:21 +0000"
+      "has_spider_eye": "2025-02-13 19:54:31 +0000"
     },
     "done": true
   },
@@ -1237,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-02-13 19:55:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_trampoline": {
     "criteria": {
       "has_string": "2025-02-12 19:25:03 +0000"
@@ -1297,15 +1321,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
-    "criteria": {
-      "has_flint": "2025-02-12 19:06:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-02-12 19:06:10 +0000"
     },
     "done": true
   },
@@ -1591,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 19:55:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_lamp": {
     "criteria": {
       "has_planks": "2025-02-12 18:57:47 +0000"
@@ -1819,15 +1849,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_halberd": {
+    "criteria": {
+      "has_cobblestone": "2025-02-12 19:04:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-02-12 19:07:26 +0000"
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/stone_halberd": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_cobblestone": "2025-02-12 19:04:21 +0000"
+      "has_spider_eye": "2025-02-13 19:54:31 +0000"
     },
     "done": true
   },
@@ -1939,15 +1975,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2025-02-12 19:05:56 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-02-12 19:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-02-12 19:05:56 +0000"
     },
     "done": true
   },
@@ -2089,15 +2125,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_trampoline": {
-    "criteria": {
-      "has_string": "2025-02-12 19:25:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_trampoline": {
+    "criteria": {
+      "has_string": "2025-02-12 19:25:03 +0000"
     },
     "done": true
   },
@@ -2113,15 +2149,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-02-12 19:04:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-02-12 19:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-02-12 19:04:21 +0000"
     },
     "done": true
   },
