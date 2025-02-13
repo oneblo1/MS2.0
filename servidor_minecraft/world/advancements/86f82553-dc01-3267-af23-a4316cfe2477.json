@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-02-13 20:10:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-12 18:57:42 +0000"
@@ -131,6 +137,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_storage_cabinet": {
     "criteria": {
       "has_oak_planks": "2025-02-12 18:57:47 +0000"
@@ -179,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_basin": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -194,6 +212,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-02-12 19:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },
@@ -269,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/creeper": {
     "criteria": {
       "has_gunpowder": "2025-02-12 19:21:51 +0000"
@@ -329,6 +359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -356,6 +392,18 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/sheep": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -410,6 +458,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-12 18:56:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -515,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_basin": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -560,6 +620,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-02-13 20:15:25 +0000"
     },
     "done": true
   },
@@ -635,9 +701,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },
@@ -806,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2025-02-13 20:03:19 +0000"
@@ -833,6 +917,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -869,6 +959,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2025-02-12 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },
@@ -929,6 +1025,12 @@
   "travelersbackpack:recipes/travelersbackpack/horse": {
     "criteria": {
       "has_leather": "2025-02-12 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -1070,6 +1172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-02-13 20:15:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-02-12 18:57:19 +0000"
@@ -1097,6 +1205,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_saber": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 20:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -1178,6 +1292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-13 20:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-02-12 18:58:20 +0000"
@@ -1196,9 +1316,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-13 20:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-02-13 20:03:19 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/smogstem_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },
@@ -1229,6 +1367,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_light_ceiling_fan": {
     "criteria": {
       "has_oak_planks": "2025-02-12 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -1340,6 +1484,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-02-12 19:09:44 +0000"
@@ -1367,6 +1517,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2025-02-12 19:09:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -1409,6 +1565,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/undergarden_group/grongle_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
     },
     "done": true
   },
@@ -1544,6 +1706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-02-13 20:15:46 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_stool": {
     "criteria": {
       "has_planks": "2025-02-12 18:57:47 +0000"
@@ -1589,6 +1757,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-02-13 20:09:43 +0000"
     },
     "done": true
   },
@@ -1646,9 +1820,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -1670,15 +1862,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_scythe": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_copper_chest": {
     "criteria": {
       "has_item": "2025-02-13 20:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -1706,6 +1916,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -1727,6 +1943,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -1814,6 +2036,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
+    "criteria": {
+      "has_bone": "2025-02-13 20:17:21 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2025-02-12 18:15:50 +0000"
@@ -1838,6 +2066,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -1850,6 +2090,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 20:05:42 +0000"
@@ -1859,6 +2105,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_heavy_crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
     },
     "done": true
   },
@@ -1910,6 +2162,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-02-13 20:09:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-02-12 19:23:21 +0000"
@@ -1942,9 +2206,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "melon_slice": "2025-02-12 19:08:18 +0000"
+      "melon_slice": "2025-02-12 19:08:18 +0000",
+      "mushroom_stew": "2025-02-13 20:09:02 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_light_ceiling_fan": {
     "criteria": {
@@ -2048,6 +2319,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-12 18:56:54 +0000"
@@ -2063,6 +2340,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/red_lamp": {
     "criteria": {
       "has_planks": "2025-02-12 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -2126,6 +2409,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-02-13 20:17:21 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-02-12 19:07:51 +0000"
@@ -2147,6 +2436,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-12 19:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },
@@ -2204,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-02-12 18:57:42 +0000"
@@ -2231,6 +2532,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
     },
     "done": true
   },
@@ -2390,6 +2697,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -2444,6 +2763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2025-02-13 20:16:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-02-13 20:05:42 +0000"
@@ -2492,9 +2817,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_trampoline": {
     "criteria": {
       "has_string": "2025-02-12 19:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-13 20:15:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
     },
     "done": true
   },
@@ -2564,9 +2907,21 @@
     },
     "done": true
   },
+  "undergarden:recipes/undergarden_group/wigglewood_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-02-12 18:57:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -2612,6 +2967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_trampoline": {
     "criteria": {
       "has_string": "2025-02-12 19:25:03 +0000"
@@ -2633,6 +2994,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/knife": {
     "criteria": {
       "has_leather": "2025-02-12 19:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -2672,9 +3039,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-02-13 20:13:55 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2025-02-12 18:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -2762,6 +3141,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-12 19:09:40 +0000"
@@ -2777,6 +3162,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/iron_arrow": {
     "criteria": {
       "has_feather": "2025-02-12 19:23:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -2810,6 +3201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
@@ -2831,6 +3228,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_crate": {
     "criteria": {
       "has_oak_planks": "2025-02-12 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-02-13 20:12:27 +0000"
     },
     "done": true
   },
@@ -2903,6 +3306,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_sofa": {
     "criteria": {
       "has_planks": "2025-02-12 18:57:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-13 20:15:52 +0000"
     },
     "done": true
   },
@@ -3002,6 +3411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/melon": {
     "criteria": {
       "has_melon_slice": "2025-02-12 19:00:47 +0000"
@@ -3068,6 +3483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-13 20:15:52 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_trampoline": {
     "criteria": {
       "has_string": "2025-02-12 19:25:03 +0000"
@@ -3107,6 +3528,12 @@
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-02-12 18:13:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
     },
     "done": true
   },
@@ -3170,6 +3597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-02-13 20:10:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
     "criteria": {
       "has_pumpkin": "2025-02-12 19:01:13 +0000"
@@ -3179,6 +3612,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2025-02-13 20:13:55 +0000"
     },
     "done": true
   },
@@ -3230,6 +3669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-02-12 19:17:26 +0000"
@@ -3272,6 +3717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2025-02-12 18:57:42 +0000"
@@ -3293,6 +3744,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:03:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-02-13 20:13:58 +0000"
     },
     "done": true
   },

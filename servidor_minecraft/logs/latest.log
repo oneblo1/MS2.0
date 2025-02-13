@@ -245,3 +245,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Feb2025 20:03:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Isn't It Iron Pick]
 [13Feb2025 20:03:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Isn't It Iron Pick]
 [13Feb2025 20:03:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Getting an Upgrade]
+[13Feb2025 20:19:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [The Parrots and the Bats]
