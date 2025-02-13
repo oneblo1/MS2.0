@@ -2949,3 +2949,73 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Feb2025 20:01:13.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Acquire Hardware]
 [13Feb2025 20:01:24.846] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
 [13Feb2025 20:01:31.646] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
+[13Feb2025 20:02:56.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save OneBlock Reborn
+[13Feb2025 20:02:56.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete OneBlock Reborn
+[13Feb2025 20:03:14.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Acquire Hardware]
+[13Feb2025 20:03:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Isn't It Iron Pick]
+[13Feb2025 20:03:32.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Isn't It Iron Pick]
+[13Feb2025 20:03:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Getting an Upgrade]
+[13Feb2025 20:05:21.146] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-1.16, y=60.50, z=1.54]]
+[13Feb2025 20:05:24.292] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-8.48, y=61.00, z=-1.03]]
+[13Feb2025 20:05:30.792] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-1.16, y=60.50, z=1.76]]
+[13Feb2025 20:05:39.842] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=2.45, y=60.50, z=1.82]]
+[13Feb2025 20:05:40.842] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.80, y=60.50, z=-0.20]]
+[13Feb2025 20:06:00.192] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.80, y=60.50, z=-0.20]]
+[13Feb2025 20:06:02.442] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-1.54, y=61.50, z=2.09]]
+[13Feb2025 20:06:06.842] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-10.73, y=61.00, z=2.45]]
+[13Feb2025 20:06:09.092] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-10.22, y=61.00, z=2.44]]
+[13Feb2025 20:06:10.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:06:10.606] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:06:11.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:06:11.349] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:06:12.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:06:12.261] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:06:13.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:06:13.061] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:06:13.849] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:06:13.849] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:06:16.142] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-1.26, y=60.50, z=2.80]]
+[13Feb2025 20:06:25.342] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-12.68, y=62.00, z=2.05]]
+[13Feb2025 20:06:39.592] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.29, y=61.00, z=-0.10]]
+[13Feb2025 20:06:57.192] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.85, y=60.50, z=-0.51]]
+[13Feb2025 20:07:11.092] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.93, y=61.00, z=-0.83]]
+[13Feb2025 20:07:31.292] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=2.38, y=61.00, z=4.07]]
+[13Feb2025 20:07:32.642] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=3.36, y=60.50, z=2.21]]
+[13Feb2025 20:07:34.142] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-1.06, y=60.50, z=1.15]]
+[13Feb2025 20:07:56.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save OneBlock Reborn
+[13Feb2025 20:07:56.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete OneBlock Reborn
+[13Feb2025 20:07:58.192] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.44, y=60.50, z=1.15]]
+[13Feb2025 20:08:08.192] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-10.09, y=61.00, z=0.23]]
+[13Feb2025 20:08:13.642] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.05, y=60.50, z=1.62]]
+[13Feb2025 20:08:22.242] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.39, y=60.50, z=1.73]]
+[13Feb2025 20:08:22.942] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.39, y=60.50, z=1.73]]
+[13Feb2025 20:08:28.842] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-6.95, y=60.50, z=2.44]]
+[13Feb2025 20:08:35.992] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=5.81, y=62.25, z=4.87]]
+[13Feb2025 20:08:54.342] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.63, y=60.50, z=1.77]]
+[13Feb2025 20:09:29.792] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=4.00, y=62.02, z=3.48]]
+[13Feb2025 20:09:38.442] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=4.24, y=61.00, z=2.20]]
+[13Feb2025 20:09:41.542] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=4.89, y=61.00, z=3.12]]
+[13Feb2025 20:09:46.492] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=4.10, y=61.00, z=3.03]]
+[13Feb2025 20:09:48.209] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=0, y=60, z=0}) doesn't have enough leaves around top most log
+[13Feb2025 20:09:51.792] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=6.48, y=61.00, z=5.06]]
+[13Feb2025 20:10:29.542] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-14.88, y=61.00, z=2.50]]
+[13Feb2025 20:10:31.792] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-0.59, y=60.50, z=1.75]]
+[13Feb2025 20:10:48.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:10:48.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:10:48.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:10:48.354] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:10:50.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:10:50.557] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:10:51.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[13Feb2025 20:10:51.459] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[13Feb2025 20:10:54.592] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=3.88, y=63.12, z=6.65]]
+[13Feb2025 20:11:01.992] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=0.02, y=61.00, z=6.76]]
+[13Feb2025 20:11:05.042] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=1.30, y=61.00, z=4.38]]
+[13Feb2025 20:11:06.992] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=0.40, y=60.77, z=3.67]]
+[13Feb2025 20:11:20.942] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-5.53, y=61.50, z=2.28]]
+[13Feb2025 20:11:21.342] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-0.06, y=61.42, z=4.07]]
+[13Feb2025 20:11:41.242] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-12.64, y=61.00, z=3.56]]
+[13Feb2025 20:11:46.292] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-9.52, y=61.00, z=2.77]]
+[13Feb2025 20:11:52.492] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=-6.24, y=60.50, z=2.87]]
+[13Feb2025 20:12:09.692] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['RakanCharming'/30, l='ServerLevel[OneBlock Reborn]', x=3.01, y=60.50, z=3.35]]
+[13Feb2025 20:12:22.542] [Server thread/DEBUG] [de.cadentem.skinstalker.Skinstalker/]: Skinstalker could not pass the spawn checks, target: [ServerPlayer['mmarisolsp'/400, l='ServerLevel[OneBlock Reborn]', x=-9.04, y=61.00, z=0.21]]
