@@ -247,3 +247,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [13Feb2025 20:03:39.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mmarisolsp has made the advancement [Getting an Upgrade]
 [13Feb2025 20:19:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [The Parrots and the Bats]
 [13Feb2025 20:29:49.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Best Friends Forever]
+[13Feb2025 20:36:14.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Cranker
+[13Feb2025 20:40:27.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming was slain by Monster Guard
+[13Feb2025 20:40:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Take Aim]
+[13Feb2025 20:40:52.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Monster Guard'/4089, l='ServerLevel[OneBlock Reborn]', x=0.09, y=60.50, z=3.44] died: Monster Guard was shot by RakanCharming
+[13Feb2025 20:40:56.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Monster Guard'/4086, l='ServerLevel[OneBlock Reborn]', x=4.40, y=62.00, z=2.02] died: Monster Guard was shot by RakanCharming
+[13Feb2025 20:41:02.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Monster Guard'/4082, l='ServerLevel[OneBlock Reborn]', x=-14.73, y=61.00, z=-2.74] died: Monster Guard was shot by RakanCharming
+[13Feb2025 20:41:09.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RakanCharming has made the advancement [Suit Up]

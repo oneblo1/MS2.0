@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2025-02-13 20:35:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2025-02-12 18:30:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 20:34:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/frying_pan": {
     "criteria": {
       "has_leather": "2025-02-12 19:03:25 +0000"
@@ -389,6 +407,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_crate": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_cooler": {
     "criteria": {
       "has_planks": "2025-02-12 18:29:27 +0000"
@@ -476,6 +500,12 @@
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-02-12 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_desk": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -611,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 20:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-02-12 19:04:29 +0000"
@@ -677,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2025-02-12 18:29:27 +0000"
@@ -704,6 +746,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-12 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_kitchen_cabinetry": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -996,6 +1044,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_table": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-12 19:10:03 +0000"
@@ -1047,6 +1101,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -1251,6 +1311,12 @@
   "undergarden:recipes/undergarden_group/smogstem_boat": {
     "criteria": {
       "in_water": "2025-02-12 18:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -1830,6 +1896,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-02-12 19:05:18 +0000"
@@ -1872,6 +1944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-02-12 18:30:12 +0000"
@@ -1899,6 +1977,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-02-13 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-13 20:35:22 +0000"
     },
     "done": true
   },
@@ -2162,6 +2246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-02-12 19:10:03 +0000"
@@ -2213,6 +2303,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-02-12 19:03:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-13 20:35:22 +0000"
     },
     "done": true
   },
@@ -2291,6 +2387,12 @@
   "undergarden:recipes/undergarden_group/gloom_o_lantern": {
     "criteria": {
       "has_torch": "2025-02-12 18:34:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_cutting_board": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -2570,6 +2672,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_kitchen_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-02-13 20:01:28 +0000"
@@ -2597,6 +2705,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/dough": {
     "criteria": {
       "has_water": "2025-02-12 18:31:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -2702,6 +2816,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_mail_box": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-02-12 18:33:48 +0000"
@@ -2771,6 +2897,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-02-12 19:12:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2025-02-13 20:35:22 +0000"
     },
     "done": true
   },
@@ -3080,6 +3212,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_chair": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-02-12 18:27:29 +0000"
@@ -3146,6 +3284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-02-13 20:34:06 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:01:13 +0000"
@@ -3173,6 +3317,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2025-02-12 18:27:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_drawer": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
@@ -3392,6 +3542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-02-13 20:01:13 +0000"
@@ -3464,6 +3620,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-13 20:37:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-02-13 20:23:25 +0000"
@@ -3515,6 +3677,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-02-13 20:23:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_kitchen_sink": {
+    "criteria": {
+      "has_birch_planks": "2025-02-13 20:37:29 +0000"
     },
     "done": true
   },
