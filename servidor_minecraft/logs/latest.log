@@ -84,3 +84,30 @@
 [01:26:27] [Server thread/INFO]: [RakanCharming: Set the world spawn point to 786, 66, -151 [0.0]]
 [01:28:35] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
 [01:28:35] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
+[01:31:03] [Server thread/INFO]: RakanCharming has made the advancement [Stone Age]
+[01:31:17] [User Authenticator #2/INFO]: UUID of player Skaycitaa is a2545d93-8c8d-3f2d-afab-f24d7b1d414b
+[01:31:19] [Server thread/INFO]: Skaycitaa joined the game
+[01:31:19] [Server thread/INFO]: Skaycitaa[/127.63.178.197:45109] logged in with entity id 4018 at ([world]779.5, 66.0, -149.5)
+[01:33:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> no se ve mi skin?
+[01:34:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tu tienes premium?
+[01:34:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> sip
+[01:34:43] [Server thread/INFO]: RakanCharming issued server command: /time set 1
+[01:34:43] [Server thread/INFO]: [RakanCharming: Set the time to 1]
+[01:34:52] [Server thread/INFO]: Skaycitaa issued server command: /skin LeviusZ Skaycitaa
+[01:35:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> dice que no tengo permisos xd
+[01:35:11] [Server thread/INFO]: RakanCharming issued server command: /op Skaycitaa
+[01:35:11] [Server thread/INFO]: [RakanCharming: Made Skaycitaa a server operator]
+[01:35:21] [Server thread/INFO]: Skaycitaa issued server command: /skin LeviusZ Skaycitaa
+[01:35:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> pero tengo de una chica de pelo naranja? xd
+[01:35:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> ah ya
+[01:36:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> sip
+[01:36:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> si quiero
+[01:38:53] [Server thread/INFO]: RakanCharming lost connection: Disconnected
+[01:38:53] [Server thread/INFO]: RakanCharming left the game
+[01:39:11] [Server thread/INFO]: Skaycitaa has made the advancement [Stone Age]
+[01:40:16] [User Authenticator #3/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[01:40:17] [Server thread/INFO]: RakanCharming joined the game
+[01:40:17] [Server thread/INFO]: RakanCharming[/127.86.93.177:33065] logged in with entity id 5030 at ([world]799.6752099937997, 65.0, -170.89587002366608)
+[01:41:55] [Server thread/INFO]: Skaycitaa has made the advancement [Getting an Upgrade]
+[01:42:03] [Server thread/INFO]: RakanCharming has made the advancement [Getting an Upgrade]
+[01:42:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> sip
