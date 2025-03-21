@@ -269,3 +269,6 @@
 [06:10:50] [Async Chat Thread - #82/INFO]: [Not Secure] <RakanCharming> adwyse
 [06:11:02] [Server thread/INFO]: Skaycitaa issued server command: /skin adwyse
 [06:11:03] [Server thread/INFO]: RakanCharming issued server command: /skin Nwroo
+[06:27:57] [Server thread/INFO]: Villager Villager['Fisherman'/89, uuid='a6e3c599-239d-499e-a280-c1bcfb4f64de', l='ServerLevel[world]', x=223.24, y=112.54, z=-289.43, cpos=[13, -19], tl=298285, v=true] died, message: 'Fisherman was slain by Zombie'
+[06:31:22] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
+[06:31:22] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
