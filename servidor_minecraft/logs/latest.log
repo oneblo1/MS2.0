@@ -223,3 +223,11 @@
 [04:45:22] [Server thread/INFO]: Skaycitaa has made the advancement [A Seedy Place]
 [04:47:40] [Async Chat Thread - #62/INFO]: [Not Secure] <Skaycitaa> mira gran hueco q hay
 [04:54:49] [Async Chat Thread - #64/INFO]: [Not Secure] <Skaycitaa> ehh creo que no
+[05:05:26] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
+[05:05:26] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
+[05:06:02] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
+[05:06:02] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
+[05:07:00] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
+[05:07:00] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
+[05:07:12] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
+[05:07:12] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
