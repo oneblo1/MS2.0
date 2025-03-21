@@ -108,3 +108,21 @@
 [02:38:10] [Server thread/INFO]: Villager Villager['Villager'/115, uuid='f891e0ad-5e8f-4db2-b401-f467ac7890be', l='ServerLevel[world]', x=309.13, y=90.94, z=-281.79, cpos=[19, -18], tl=32150, v=true] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
 [02:38:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> me andaban madreando entre 2 xd
 [02:38:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> si
+[02:40:33] [Server thread/INFO]: RakanCharming has made the advancement [Minecraft: Trial(s) Edition]
+[02:40:39] [Async Chat Thread - #16/INFO]: [Not Secure] <Skaycitaa> tp
+[02:40:50] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa RakanCharming
+[02:40:50] [Server thread/INFO]: [RakanCharming: Teleported Skaycitaa to RakanCharming]
+[02:40:50] [Server thread/INFO]: Skaycitaa has made the advancement [Minecraft: Trial(s) Edition]
+[02:40:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Skaycitaa> wtf
+[02:42:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Skaycitaa> si
+[02:43:20] [Server thread/INFO]: Skaycitaa issued server command: /tp RakanCharming Skaycitaa
+[02:43:20] [Server thread/INFO]: [Skaycitaa: Teleported RakanCharming to Skaycitaa]
+[02:43:32] [Async Chat Thread - #20/INFO]: [Not Secure] <Skaycitaa> toma comida
+[02:46:04] [Async Chat Thread - #22/INFO]: [Not Secure] <Skaycitaa> yo ya sali xd
+[02:46:39] [Server thread/INFO]: Skaycitaa issued server command: /tp RakanCharming Skaycitaa
+[02:46:39] [Server thread/INFO]: [Skaycitaa: Teleported RakanCharming to Skaycitaa]
+[02:47:40] [Server thread/INFO]: RakanCharming fell from a high place
+[02:47:48] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
+[02:47:48] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
+[02:49:36] [Server thread/INFO]: RakanCharming has made the advancement [Diamonds!]
+[02:49:56] [Server thread/INFO]: Skaycitaa has made the advancement [Diamonds!]
