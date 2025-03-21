@@ -1,135 +1,100 @@
-[01:19:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[01:19:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[01:19:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:19:01] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
-[01:19:03] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2308ms.
-[01:19:03] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[01:19:03] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
+[02:20:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[02:20:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[02:20:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:20:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
+[02:20:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
  - SkinsRestorer (15.6.0)
-[01:19:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:19:09] [ServerMain/INFO]: Loaded 1337 recipes
-[01:19:09] [ServerMain/INFO]: Loaded 1448 advancements
-[01:19:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:19:09] [Server thread/INFO]: Loading properties
-[01:19:09] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[01:19:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:19:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:19:10] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:19:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:19:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:19:11] [Server thread/INFO]: Default game type: SURVIVAL
-[01:19:11] [Server thread/INFO]: Generating keypair
-[01:19:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:19:11] [Server thread/INFO]: Using epoll channel type
-[01:19:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:19:11] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:19:11] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[01:19:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:19:11] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[01:19:12] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:19:13] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[01:19:14] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:19:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:19:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:19:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:19:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:19:14] [Server thread/INFO]: Preparing level "world"
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:19:14] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:19:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:19:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[01:19:15] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 288.5ms
-[01:19:15] [Server thread/INFO]: Preparing spawn area: 0%
-[01:19:15] [Server thread/INFO]: Preparing spawn area: 0%
-[01:19:15] [Server thread/INFO]: Preparing spawn area: 0%
-[01:19:15] [Server thread/INFO]: Time elapsed: 1303 ms
-[01:19:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:19:15] [Server thread/INFO]: Preparing spawn area: 0%
-[01:19:16] [Server thread/INFO]: Time elapsed: 222 ms
-[01:19:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:19:16] [Server thread/INFO]: Preparing spawn area: 0%
-[01:19:16] [Server thread/INFO]: Time elapsed: 142 ms
-[01:19:16] [Server thread/INFO]: [spark] Starting background profiler...
-[01:19:16] [Server thread/INFO]: Done preparing level "world" (2.385s)
-[01:19:16] [Server thread/INFO]: Running delayed init tasks
-[01:19:16] [Server thread/INFO]: Done (16.580s)! For help, type "help"
-[01:20:04] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:20:05] [Server thread/INFO]: RakanCharming joined the game
-[01:20:05] [Server thread/INFO]: RakanCharming[/127.86.93.177:42239] logged in with entity id 106 at ([world]-23.44313905164141, 78.0, -0.22592617061035233)
-[01:21:12] [Server thread/INFO]: RakanCharming lost connection: Timed out
-[01:21:12] [Server thread/INFO]: RakanCharming left the game
-[01:21:21] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:21:21] [Server thread/INFO]: RakanCharming joined the game
-[01:21:21] [Server thread/INFO]: RakanCharming[/127.86.93.177:36057] logged in with entity id 435 at ([world]-2.747377785515865, 81.0, -13.619972501442787)
-[01:24:35] [Server thread/INFO]: RakanCharming issued server command: /time set 1
-[01:24:35] [Server thread/INFO]: [RakanCharming: Set the time to 1]
-[01:24:42] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[01:24:42] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[01:24:56] [Server thread/INFO]: RakanCharming issued server command: /locate biome minecraft:cherry_grove
-[01:24:56] [Server thread/INFO]: Locating element minecraft:cherry_grove took 45 ms
-[01:25:00] [Server thread/INFO]: RakanCharming issued server command: /tp @s 363 83 -263
-[01:25:00] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to 363.500000, 83.000000, -262.500000]
-[01:26:27] [Server thread/INFO]: RakanCharming issued server command: /setworldspawn
-[01:26:27] [Server thread/INFO]: [RakanCharming: Set the world spawn point to 786, 66, -151 [0.0]]
-[01:28:35] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[01:28:35] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[01:31:03] [Server thread/INFO]: RakanCharming has made the advancement [Stone Age]
-[01:31:17] [User Authenticator #2/INFO]: UUID of player Skaycitaa is a2545d93-8c8d-3f2d-afab-f24d7b1d414b
-[01:31:19] [Server thread/INFO]: Skaycitaa joined the game
-[01:31:19] [Server thread/INFO]: Skaycitaa[/127.63.178.197:45109] logged in with entity id 4018 at ([world]779.5, 66.0, -149.5)
-[01:33:44] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> no se ve mi skin?
-[01:34:06] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tu tienes premium?
-[01:34:35] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> sip
-[01:34:43] [Server thread/INFO]: RakanCharming issued server command: /time set 1
-[01:34:43] [Server thread/INFO]: [RakanCharming: Set the time to 1]
-[01:34:52] [Server thread/INFO]: Skaycitaa issued server command: /skin LeviusZ Skaycitaa
-[01:35:01] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> dice que no tengo permisos xd
-[01:35:11] [Server thread/INFO]: RakanCharming issued server command: /op Skaycitaa
-[01:35:11] [Server thread/INFO]: [RakanCharming: Made Skaycitaa a server operator]
-[01:35:21] [Server thread/INFO]: Skaycitaa issued server command: /skin LeviusZ Skaycitaa
-[01:35:46] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> pero tengo de una chica de pelo naranja? xd
-[01:35:55] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> ah ya
-[01:36:15] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> sip
-[01:36:29] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> si quiero
-[01:38:53] [Server thread/INFO]: RakanCharming lost connection: Disconnected
-[01:38:53] [Server thread/INFO]: RakanCharming left the game
-[01:39:11] [Server thread/INFO]: Skaycitaa has made the advancement [Stone Age]
-[01:40:16] [User Authenticator #3/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:40:17] [Server thread/INFO]: RakanCharming joined the game
-[01:40:17] [Server thread/INFO]: RakanCharming[/127.86.93.177:33065] logged in with entity id 5030 at ([world]799.6752099937997, 65.0, -170.89587002366608)
-[01:41:55] [Server thread/INFO]: Skaycitaa has made the advancement [Getting an Upgrade]
-[01:42:03] [Server thread/INFO]: RakanCharming has made the advancement [Getting an Upgrade]
-[01:42:21] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> sip
-[01:42:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> yo construyo
-[01:42:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> shi
-[01:43:17] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> tienes mesa=
-[01:43:24] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> si
-[01:44:47] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> que suelten retoños
-[01:44:48] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> sip
-[01:45:37] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> jsjsjd tranqui
-[01:50:25] [Async Chat Thread - #6/INFO]: [Not Secure] <Skaycitaa> voy
-[01:54:04] [Server thread/INFO]: RakanCharming has made the advancement [Monster Hunter]
-[01:58:04] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> sipi
-[01:58:14] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> shi
-[01:58:58] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> chill xd
-[01:59:10] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> nom
-[01:59:35] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> alla hay hierro
-[01:59:46] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> pero hay esqueleto xd
-[02:00:58] [Async Chat Thread - #10/INFO]: [Not Secure] <Skaycitaa> 16
-[02:01:12] [Async Chat Thread - #10/INFO]: [Not Secure] <Skaycitaa> subamos
-[02:06:15] [Server thread/INFO]: Skaycitaa has made the advancement [Sweet Dreams]
-[02:06:20] [Server thread/INFO]: RakanCharming has made the advancement [Sweet Dreams]
-[02:08:09] [Async Chat Thread - #12/INFO]: [Not Secure] <Skaycitaa> ches pobres
-[02:09:19] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> rosa
-[02:09:40] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> gracias mi amor
+[02:20:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:20:37] [ServerMain/INFO]: Loaded 1337 recipes
+[02:20:37] [ServerMain/INFO]: Loaded 1448 advancements
+[02:20:37] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:20:37] [Server thread/INFO]: Loading properties
+[02:20:37] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:20:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:20:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:20:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:20:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:20:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:20:40] [Server thread/INFO]: Default game type: SURVIVAL
+[02:20:40] [Server thread/INFO]: Generating keypair
+[02:20:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:20:40] [Server thread/INFO]: Using epoll channel type
+[02:20:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:20:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:20:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[02:20:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:20:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[02:20:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[02:20:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[02:20:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[02:20:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:20:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:20:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:20:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:20:44] [Server thread/INFO]: Preparing level "world"
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[02:20:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:20:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:45] [Server thread/INFO]: Preparing spawn area: 2%
+[02:20:45] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:20:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 379.2ms
+[02:20:46] [Server thread/INFO]: Preparing spawn area: 2%
+[02:20:46] [Server thread/INFO]: Preparing spawn area: 55%
+[02:20:46] [Server thread/INFO]: Time elapsed: 1834 ms
+[02:20:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:20:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:47] [Server thread/INFO]: Time elapsed: 459 ms
+[02:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:20:47] [Server thread/INFO]: Preparing spawn area: 0%
+[02:20:47] [Server thread/INFO]: Time elapsed: 283 ms
+[02:20:47] [Server thread/INFO]: [spark] Starting background profiler...
+[02:20:48] [Server thread/INFO]: Done preparing level "world" (3.952s)
+[02:20:48] [Server thread/INFO]: Running delayed init tasks
+[02:20:48] [Server thread/INFO]: Done (20.904s)! For help, type "help"
+[02:20:55] [User Authenticator #0/INFO]: UUID of player Skaycitaa is a2545d93-8c8d-3f2d-afab-f24d7b1d414b
+[02:20:57] [Server thread/INFO]: Skaycitaa joined the game
+[02:20:57] [Server thread/INFO]: Skaycitaa[/127.63.178.197:57497] logged in with entity id 21 at ([world]236.28723200711124, 109.00133597911214, -282.28512930011277)
+[02:20:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 400766af-2644-443a-967e-677a307ce50e, mapped to Creeper['Creeper'/39, uuid='400766af-2644-443a-967e-677a307ce50e', l='ServerLevel[world]', x=208.45, y=38.00, z=-270.70, cpos=[13, -17], tl=117, v=true], can't add Creeper['Creeper'/68, uuid='400766af-2644-443a-967e-677a307ce50e', l='ServerLevel[world]', x=206.77, y=38.00, z=-271.48, cpos=[12, -17], tl=172, v=false]
+[02:20:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2926fbe4-3c09-4c3f-8314-dd4eb0f349ce, mapped to Cow['Cow'/72, uuid='2926fbe4-3c09-4c3f-8314-dd4eb0f349ce', l='ServerLevel[world]', x=251.18, y=117.00, z=-231.27, cpos=[15, -15], tl=12140, v=true], can't add Cow['Cow'/126, uuid='2926fbe4-3c09-4c3f-8314-dd4eb0f349ce', l='ServerLevel[world]', x=263.81, y=117.00, z=-231.53, cpos=[16, -15], tl=10764, v=false]
+[02:21:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> no se si hacerla aca, cerca hay cerezos
+[02:21:11] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[02:21:12] [Server thread/INFO]: RakanCharming joined the game
+[02:21:12] [Server thread/INFO]: RakanCharming[/127.86.93.177:41323] logged in with entity id 281 at ([world]234.30000001192093, 110.0, -272.30000001192093)
+[02:21:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tienes horno?
+[02:21:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> shi
+[02:22:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> quieres armadura?
+[02:22:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tienes el hierro?
+[02:22:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> a
+[02:22:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> nop
+[02:22:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> fue cuando se cerro el sv xd
+[02:23:01] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[02:23:01] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
+[02:23:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> mas de 40
+[02:23:16] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
+[02:23:16] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
+[02:24:05] [Server thread/INFO]: Villager Villager['Fisherman'/44, uuid='aa0119fe-3757-4b52-8eb4-67979598a818', l='ServerLevel[world]', x=234.16, y=111.00, z=-273.86, cpos=[14, -18], tl=14643, v=true] died, message: 'Fisherman was slain by RakanCharming'
+[02:24:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> JAJSJS
+[02:24:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> capaz aca
+[02:25:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> jaja no, cerca de la aldea
+[02:25:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> porq cerca hay bioma de cerezo
+[02:26:23] [Server thread/INFO]: Skaycitaa has made the advancement [Acquire Hardware]
+[02:26:28] [Server thread/INFO]: Skaycitaa has made the advancement [Suit Up]
+[02:26:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> meh xd no me quejo
+[02:26:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> toma
+[02:27:01] [Server thread/INFO]: RakanCharming has made the advancement [Suit Up]
+[02:28:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Skaycitaa> son pobres
+[02:28:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Skaycitaa> no hay nada mas q robarles
+[02:28:58] [Server thread/INFO]: RakanCharming has made the advancement [Acquire Hardware]
+[02:29:40] [Server thread/INFO]: RakanCharming has made the advancement [Isn't It Iron Pick]
