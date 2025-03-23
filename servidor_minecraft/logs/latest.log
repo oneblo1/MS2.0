@@ -1,286 +1,217 @@
-[02:20:29] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[02:20:29] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[02:20:29] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:20:30] [ServerMain/INFO]: [PluginInitializerManager] Initialized 1 plugin
-[02:20:30] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (1):
- - SkinsRestorer (15.6.0)
-[02:20:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:20:37] [ServerMain/INFO]: Loaded 1337 recipes
-[02:20:37] [ServerMain/INFO]: Loaded 1448 advancements
-[02:20:37] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:20:37] [Server thread/INFO]: Loading properties
-[02:20:37] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[02:20:38] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:20:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:20:38] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:20:39] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:20:39] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:20:40] [Server thread/INFO]: Default game type: SURVIVAL
-[02:20:40] [Server thread/INFO]: Generating keypair
-[02:20:40] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:20:40] [Server thread/INFO]: Using epoll channel type
-[02:20:40] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:20:40] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:20:40] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[02:20:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:20:40] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[02:20:42] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:20:43] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[02:20:44] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:20:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:20:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:20:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:20:44] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:20:44] [Server thread/INFO]: Preparing level "world"
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:20:44] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:20:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:20:45] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:45] [Server thread/INFO]: Preparing spawn area: 2%
-[02:20:45] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[02:20:46] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 379.2ms
-[02:20:46] [Server thread/INFO]: Preparing spawn area: 2%
-[02:20:46] [Server thread/INFO]: Preparing spawn area: 55%
-[02:20:46] [Server thread/INFO]: Time elapsed: 1834 ms
-[02:20:46] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:20:46] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:47] [Server thread/INFO]: Time elapsed: 459 ms
-[02:20:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:20:47] [Server thread/INFO]: Preparing spawn area: 0%
-[02:20:47] [Server thread/INFO]: Time elapsed: 283 ms
-[02:20:47] [Server thread/INFO]: [spark] Starting background profiler...
-[02:20:48] [Server thread/INFO]: Done preparing level "world" (3.952s)
-[02:20:48] [Server thread/INFO]: Running delayed init tasks
-[02:20:48] [Server thread/INFO]: Done (20.904s)! For help, type "help"
-[02:20:55] [User Authenticator #0/INFO]: UUID of player Skaycitaa is a2545d93-8c8d-3f2d-afab-f24d7b1d414b
-[02:20:57] [Server thread/INFO]: Skaycitaa joined the game
-[02:20:57] [Server thread/INFO]: Skaycitaa[/127.63.178.197:57497] logged in with entity id 21 at ([world]236.28723200711124, 109.00133597911214, -282.28512930011277)
-[02:20:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 400766af-2644-443a-967e-677a307ce50e, mapped to Creeper['Creeper'/39, uuid='400766af-2644-443a-967e-677a307ce50e', l='ServerLevel[world]', x=208.45, y=38.00, z=-270.70, cpos=[13, -17], tl=117, v=true], can't add Creeper['Creeper'/68, uuid='400766af-2644-443a-967e-677a307ce50e', l='ServerLevel[world]', x=206.77, y=38.00, z=-271.48, cpos=[12, -17], tl=172, v=false]
-[02:20:58] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 2926fbe4-3c09-4c3f-8314-dd4eb0f349ce, mapped to Cow['Cow'/72, uuid='2926fbe4-3c09-4c3f-8314-dd4eb0f349ce', l='ServerLevel[world]', x=251.18, y=117.00, z=-231.27, cpos=[15, -15], tl=12140, v=true], can't add Cow['Cow'/126, uuid='2926fbe4-3c09-4c3f-8314-dd4eb0f349ce', l='ServerLevel[world]', x=263.81, y=117.00, z=-231.53, cpos=[16, -15], tl=10764, v=false]
-[02:21:09] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> no se si hacerla aca, cerca hay cerezos
-[02:21:11] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[02:21:12] [Server thread/INFO]: RakanCharming joined the game
-[02:21:12] [Server thread/INFO]: RakanCharming[/127.86.93.177:41323] logged in with entity id 281 at ([world]234.30000001192093, 110.0, -272.30000001192093)
-[02:21:42] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tienes horno?
-[02:21:56] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> shi
-[02:22:00] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> quieres armadura?
-[02:22:19] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> tienes el hierro?
-[02:22:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> a
-[02:22:41] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> nop
-[02:22:52] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> fue cuando se cerro el sv xd
-[02:23:01] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[02:23:01] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[02:23:03] [Async Chat Thread - #0/INFO]: [Not Secure] <Skaycitaa> mas de 40
-[02:23:16] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[02:23:16] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[02:24:05] [Server thread/INFO]: Villager Villager['Fisherman'/44, uuid='aa0119fe-3757-4b52-8eb4-67979598a818', l='ServerLevel[world]', x=234.16, y=111.00, z=-273.86, cpos=[14, -18], tl=14643, v=true] died, message: 'Fisherman was slain by RakanCharming'
-[02:24:14] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> JAJSJS
-[02:24:56] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> capaz aca
-[02:25:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> jaja no, cerca de la aldea
-[02:25:36] [Async Chat Thread - #2/INFO]: [Not Secure] <Skaycitaa> porq cerca hay bioma de cerezo
-[02:26:23] [Server thread/INFO]: Skaycitaa has made the advancement [Acquire Hardware]
-[02:26:28] [Server thread/INFO]: Skaycitaa has made the advancement [Suit Up]
-[02:26:42] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> meh xd no me quejo
-[02:26:56] [Async Chat Thread - #4/INFO]: [Not Secure] <Skaycitaa> toma
-[02:27:01] [Server thread/INFO]: RakanCharming has made the advancement [Suit Up]
-[02:28:39] [Async Chat Thread - #6/INFO]: [Not Secure] <Skaycitaa> son pobres
-[02:28:44] [Async Chat Thread - #6/INFO]: [Not Secure] <Skaycitaa> no hay nada mas q robarles
-[02:28:58] [Server thread/INFO]: RakanCharming has made the advancement [Acquire Hardware]
-[02:29:40] [Server thread/INFO]: RakanCharming has made the advancement [Isn't It Iron Pick]
-[02:30:55] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> tienes hierro?
-[02:31:43] [Async Chat Thread - #8/INFO]: [Not Secure] <Skaycitaa> ya no xd
-[02:33:23] [Async Chat Thread - #10/INFO]: [Not Secure] <Skaycitaa> ocupo 2 hierro
-[02:33:31] [Async Chat Thread - #10/INFO]: [Not Secure] <Skaycitaa> pico
-[02:33:41] [Server thread/INFO]: Skaycitaa has made the advancement [Not Today, Thank You]
-[02:37:03] [Async Chat Thread - #12/INFO]: [Not Secure] <Skaycitaa> esta wea parece hiroshima
-[02:37:55] [Server thread/INFO]: Skaycitaa has made the advancement [Monster Hunter]
-[02:38:10] [Server thread/INFO]: Villager Villager['Villager'/115, uuid='f891e0ad-5e8f-4db2-b401-f467ac7890be', l='ServerLevel[world]', x=309.13, y=90.94, z=-281.79, cpos=[19, -18], tl=32150, v=true] died, message: 'Villager hit the ground too hard while trying to escape Zombie'
-[02:38:20] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> me andaban madreando entre 2 xd
-[02:38:28] [Async Chat Thread - #14/INFO]: [Not Secure] <Skaycitaa> si
-[02:40:33] [Server thread/INFO]: RakanCharming has made the advancement [Minecraft: Trial(s) Edition]
-[02:40:39] [Async Chat Thread - #16/INFO]: [Not Secure] <Skaycitaa> tp
-[02:40:50] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa RakanCharming
-[02:40:50] [Server thread/INFO]: [RakanCharming: Teleported Skaycitaa to RakanCharming]
-[02:40:50] [Server thread/INFO]: Skaycitaa has made the advancement [Minecraft: Trial(s) Edition]
-[02:40:58] [Async Chat Thread - #16/INFO]: [Not Secure] <Skaycitaa> wtf
-[02:42:09] [Async Chat Thread - #18/INFO]: [Not Secure] <Skaycitaa> si
-[02:43:20] [Server thread/INFO]: Skaycitaa issued server command: /tp RakanCharming Skaycitaa
-[02:43:20] [Server thread/INFO]: [Skaycitaa: Teleported RakanCharming to Skaycitaa]
-[02:43:32] [Async Chat Thread - #20/INFO]: [Not Secure] <Skaycitaa> toma comida
-[02:46:04] [Async Chat Thread - #22/INFO]: [Not Secure] <Skaycitaa> yo ya sali xd
-[02:46:39] [Server thread/INFO]: Skaycitaa issued server command: /tp RakanCharming Skaycitaa
-[02:46:39] [Server thread/INFO]: [Skaycitaa: Teleported RakanCharming to Skaycitaa]
-[02:47:40] [Server thread/INFO]: RakanCharming fell from a high place
-[02:47:48] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[02:47:48] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[02:49:36] [Server thread/INFO]: RakanCharming has made the advancement [Diamonds!]
-[02:49:56] [Server thread/INFO]: Skaycitaa has made the advancement [Diamonds!]
-[02:54:14] [Async Chat Thread - #24/INFO]: [Not Secure] <Skaycitaa> tienes carbon?
-[02:54:50] [Async Chat Thread - #24/INFO]: [Not Secure] <Skaycitaa> deja me cubro xd
-[02:59:20] [Server thread/INFO]: Skaycitaa lost connection: Timed out
-[02:59:20] [Server thread/INFO]: Skaycitaa left the game
-[02:59:30] [User Authenticator #1/INFO]: UUID of player Skaycitaa is a2545d93-8c8d-3f2d-afab-f24d7b1d414b
-[02:59:31] [Server thread/INFO]: Skaycitaa joined the game
-[02:59:31] [Server thread/INFO]: Skaycitaa[/127.63.178.197:54231] logged in with entity id 5274 at ([world]269.69999998807907, -16.0, -372.69999998807907)
-[02:59:37] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> fui a tomar agua jaj
-[02:59:46] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> nop
-[02:59:57] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> tenia los audifonos bluetooh
-[03:00:13] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> sip
-[03:00:38] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> espera me hago tp
-[03:00:46] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[03:00:46] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[03:01:25] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> tienes antorchaa
-[03:01:54] [Async Chat Thread - #26/INFO]: [Not Secure] <Skaycitaa> gracias mi amor
-[03:04:12] [Server thread/INFO]: Skaycitaa has made the advancement [Take Aim]
-[03:05:20] [Async Chat Thread - #28/INFO]: [Not Secure] <Skaycitaa> hdsptm
-[03:05:28] [Async Chat Thread - #28/INFO]: [Not Secure] <Skaycitaa> hay diamantes
-[03:05:34] [Async Chat Thread - #28/INFO]: [Not Secure] <Skaycitaa> pero muchos mods xd
-[03:05:56] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[03:05:56] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[03:06:42] [Async Chat Thread - #30/INFO]: [Not Secure] <Skaycitaa> tienes mesa de crafteo?
-[03:07:24] [Async Chat Thread - #30/INFO]: [Not Secure] <Skaycitaa> tienes madera?
-[03:09:51] [Server thread/INFO]: Skaycitaa has made the advancement [Isn't It Iron Pick]
-[03:10:14] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[03:10:14] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[03:10:52] [Async Chat Thread - #32/INFO]: [Not Secure] <Skaycitaa> ven
-[03:12:12] [Server thread/INFO]: Skaycitaa has made the advancement [Hot Stuff]
-[03:13:19] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> tengo 6 diamantes
-[03:13:44] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> quieres espadas?
-[03:14:14] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> ehh
-[03:14:29] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> si pero cerca dejemos las camas
-[03:14:44] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> aja
-[03:15:26] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> vamos
-[03:15:36] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> JAJSJS
-[03:15:40] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> sepa Dios
-[03:16:16] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> y la aldea
-[03:16:27] [Async Chat Thread - #34/INFO]: [Not Secure] <Skaycitaa> JAJAJAJA nOoo
-[03:17:05] [Server thread/INFO]: Skaycitaa issued server command: /tp RakanCharming Skaycitaa
-[03:17:05] [Server thread/INFO]: [Skaycitaa: Teleported RakanCharming to Skaycitaa]
-[03:18:32] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[03:18:32] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[03:20:08] [Async Chat Thread - #36/INFO]: [Not Secure] <Skaycitaa> ven
-[03:23:41] [Server thread/INFO]: RakanCharming has made the advancement [Under Lock and Key]
-[03:28:25] [Async Chat Thread - #38/INFO]: [Not Secure] <Skaycitaa> arriba tambien
-[03:28:29] [Async Chat Thread - #38/INFO]: [Not Secure] <Skaycitaa> habia uno asi
-[03:28:59] [Async Chat Thread - #38/INFO]: [Not Secure] <Skaycitaa> ven
-[03:37:46] [Server thread/INFO]: Skaycitaa has made the advancement [Under Lock and Key]
-[03:37:57] [Async Chat Thread - #40/INFO]: [Not Secure] <Skaycitaa> 2 diamantes xd
-[03:38:36] [Server thread/INFO]: RakanCharming has made the advancement [Take Aim]
-[03:40:23] [Server thread/INFO]: RakanCharming has made the advancement [Not Today, Thank You]
-[03:46:13] [Async Chat Thread - #42/INFO]: [Not Secure] <Skaycitaa> jajsjs
-[03:47:51] [Server thread/INFO]: Skaycitaa has completed the challenge [Blowback]
-[03:48:00] [Async Chat Thread - #44/INFO]: [Not Secure] <Skaycitaa> xD
-[03:49:00] [Async Chat Thread - #44/INFO]: [Not Secure] <Skaycitaa> nop
-[03:51:12] [Async Chat Thread - #46/INFO]: [Not Secure] <Skaycitaa> vamos a las camas
-[03:53:10] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[03:53:10] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[03:57:33] [Server thread/INFO]: Skaycitaa fell from a high place
-[03:58:37] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[03:58:37] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[04:00:59] [Async Chat Thread - #48/INFO]: [Not Secure] <Skaycitaa> la aldea xd
-[04:03:36] [Async Chat Thread - #50/INFO]: [Not Secure] <Skaycitaa> warren=
-[04:04:45] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[04:04:45] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[04:11:12] [Async Chat Thread - #52/INFO]: [Not Secure] <RakanCharming> zzzzzzzzzzz
-[04:12:48] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[04:12:48] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[04:14:20] [Async Chat Thread - #54/INFO]: [Not Secure] <Skaycitaa> onta la aldea
-[04:15:07] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[04:15:07] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[04:25:28] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> bueno papi
-[04:25:30] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> ya te la sabes
-[04:25:53] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> nop
-[04:26:01] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> pero ocupo mucha madera de cerezo
-[04:26:09] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> para empezar hacer la casa
-[04:26:12] [Async Chat Thread - #56/INFO]: [Not Secure] <Skaycitaa> chi
-[04:34:03] [Server thread/INFO]: Skaycitaa has made the advancement [Ice Bucket Challenge]
-[04:35:20] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[04:35:20] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[04:39:39] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
-[04:39:39] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
-[04:39:58] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
-[04:39:58] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
-[04:40:10] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> amor como hago este tipo de tronco
-[04:40:35] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> ya te la sabes
-[04:40:37] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> :D
-[04:40:51] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> jajsjs
-[04:40:57] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> muaaaak
-[04:41:13] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> te dedico esa
-[04:42:01] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> un stack de momento
-[04:42:09] [Async Chat Thread - #58/INFO]: [Not Secure] <Skaycitaa> shi
-[04:43:30] [Async Chat Thread - #60/INFO]: [Not Secure] <Skaycitaa> soy yo o escucho a una bruja
-[04:45:22] [Server thread/INFO]: Skaycitaa has made the advancement [A Seedy Place]
-[04:47:40] [Async Chat Thread - #62/INFO]: [Not Secure] <Skaycitaa> mira gran hueco q hay
-[04:54:49] [Async Chat Thread - #64/INFO]: [Not Secure] <Skaycitaa> ehh creo que no
-[05:05:26] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
-[05:05:26] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
-[05:06:02] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
-[05:06:02] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
-[05:07:00] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
-[05:07:00] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
-[05:07:12] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
-[05:07:12] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
-[05:24:25] [Async Chat Thread - #66/INFO]: [Not Secure] <Skaycitaa> gracias mi vida
-[05:24:35] [Async Chat Thread - #66/INFO]: [Not Secure] <Skaycitaa> aunq creo que tengo que usar lana blanca
-[05:25:46] [Server thread/INFO]: RakanCharming has made the advancement [A Seedy Place]
-[05:29:42] [Async Chat Thread - #68/INFO]: [Not Secure] <Skaycitaa> sip
-[05:29:49] [Server thread/INFO]: RakanCharming has made the advancement [The Parrots and the Bats]
-[05:31:35] [Server thread/INFO]: Skaycitaa issued server command: /tp Skaycitaa RakanCharming
-[05:31:35] [Server thread/INFO]: [Skaycitaa: Teleported Skaycitaa to RakanCharming]
-[05:32:09] [Async Chat Thread - #70/INFO]: [Not Secure] <Skaycitaa> tienes comida amor?
-[05:35:22] [Server thread/INFO]: Skaycitaa has made the advancement [The Parrots and the Bats]
-[05:36:33] [Async Chat Thread - #72/INFO]: [Not Secure] <Skaycitaa> nopi
-[05:37:10] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
-[05:37:10] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
-[05:39:42] [Async Chat Thread - #74/INFO]: [Not Secure] <Skaycitaa> mi amor
-[05:39:55] [Async Chat Thread - #74/INFO]: [Not Secure] <Skaycitaa> me consigues cuarzo o saco 2 stacks jajaja
-[05:40:36] [Async Chat Thread - #74/INFO]: [Not Secure] <Skaycitaa> nono yo tampoco yo por si te molesta que use creativo solo para decorar
-[05:45:54] [Server thread/INFO]: RakanCharming issued server command: /tp Skaycitaa
-[05:45:54] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to Skaycitaa]
-[05:45:55] [Async Chat Thread - #76/INFO]: [Not Secure] <Skaycitaa> tu mejor amiga no juega mine amor?
-[05:56:47] [Async Chat Thread - #78/INFO]: [Not Secure] <Skaycitaa> gracias mi vida
-[06:01:04] [Server thread/INFO]: RakanCharming issued server command: /skin Biogamer0126
-[06:02:04] [Async Chat Thread - #80/INFO]: [Not Secure] <Skaycitaa> ahh jajaj
-[06:02:04] [Server thread/INFO]: RakanCharming issued server command: /skin iEvyee
-[06:02:21] [Async Chat Thread - #80/INFO]: [Not Secure] <Skaycitaa> esta bonita
-[06:02:30] [Async Chat Thread - #81/INFO]: [Not Secure] <Skaycitaa> sip
-[06:02:56] [Server thread/INFO]: RakanCharming issued server command: /skin Lyncerely
-[06:03:22] [Server thread/INFO]: RakanCharming issued server command: /skin KonradSt3040
-[06:06:47] [Server thread/INFO]: RakanCharming issued server command: /skin sweet1600
-[06:07:20] [Server thread/INFO]: RakanCharming issued server command: /skin Mina_sr
-[06:08:53] [Server thread/INFO]: RakanCharming issued server command: /skin Ketsuekill
-[06:09:08] [Server thread/INFO]: RakanCharming issued server command: /skin Nwroo
-[06:10:03] [Server thread/INFO]: RakanCharming issued server command: /skin adwyse
-[06:10:17] [Async Chat Thread - #82/INFO]: [Not Secure] <Skaycitaa> me gustan
-[06:10:32] [Async Chat Thread - #82/INFO]: [Not Secure] <Skaycitaa> las 2 jaja cualquiera
-[06:10:42] [Async Chat Thread - #82/INFO]: [Not Secure] <Skaycitaa> jajaj
-[06:10:47] [Async Chat Thread - #82/INFO]: [Not Secure] <Skaycitaa> esta
-[06:10:50] [Async Chat Thread - #82/INFO]: [Not Secure] <RakanCharming> adwyse
-[06:11:02] [Server thread/INFO]: Skaycitaa issued server command: /skin adwyse
-[06:11:03] [Server thread/INFO]: RakanCharming issued server command: /skin Nwroo
-[06:27:57] [Server thread/INFO]: Villager Villager['Fisherman'/89, uuid='a6e3c599-239d-499e-a280-c1bcfb4f64de', l='ServerLevel[world]', x=223.24, y=112.54, z=-289.43, cpos=[13, -19], tl=298285, v=true] died, message: 'Fisherman was slain by Zombie'
-[06:31:22] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
-[06:31:22] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
-[06:34:37] [Server thread/INFO]: RakanCharming has made the advancement [Cover Me with Diamonds]
-[06:34:42] [Server thread/INFO]: Skaycitaa issued server command: /gamemode creative
-[06:34:42] [Server thread/INFO]: [Skaycitaa: Set own game mode to Creative Mode]
-[06:39:22] [Server thread/INFO]: Skaycitaa issued server command: /gamemode survival
-[06:39:22] [Server thread/INFO]: [Skaycitaa: Set own game mode to Survival Mode]
-[06:40:27] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> JAJSJSJ
-[06:40:32] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> un the mimic
-[06:40:41] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> y vas tu primero
-[06:41:05] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> ala
-[06:41:12] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> no habia visto la hora xd
-[06:41:21] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> y el book 2 es largo jajaj
-[06:42:10] [Async Chat Thread - #84/INFO]: [Not Secure] <Skaycitaa> creo que si voy a dormir amor
+[01:35:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[01:35:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[01:35:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:35:54] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/HavenBags-1.32.1.1896.jar'...
+[01:35:54] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemEdit-3.7.0.jar'...
+[01:35:54] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/ValorlessUtils-1.12.1.270.jar'...
+[01:35:56] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/HavenBags-1.32.1.1896.jar' in 2299ms.
+[01:35:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemEdit-3.7.0.jar' in 2374ms.
+[01:35:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ValorlessUtils-1.12.1.270.jar' in 2397ms.
+[01:35:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
+[01:35:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
+ - HavenBags (1.32.1.1896), Images (2.5.3), ItemEdit (3.7.0), SkinsRestorer (15.6.0), ValorlessUtils (1.12.1.270)
+[01:36:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:36:04] [ServerMain/INFO]: Loaded 1337 recipes
+[01:36:04] [ServerMain/INFO]: Loaded 1448 advancements
+[01:36:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:36:04] [Server thread/INFO]: Loading properties
+[01:36:04] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[01:36:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:36:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:36:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:36:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:36:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:36:07] [Server thread/INFO]: Default game type: SURVIVAL
+[01:36:07] [Server thread/INFO]: Generating keypair
+[01:36:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:36:07] [Server thread/INFO]: Using epoll channel type
+[01:36:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:36:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:36:08] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.16.0/adventure-bom-4.16.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.1/adventure-api-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.1/adventure-bom-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.1/adventure-key-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.pom
+[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/option/1.0.0/option-1.0.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.pom
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
+[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
+[01:36:10] [Server thread/INFO]: [ValorlessUtils] Loading server plugin ValorlessUtils v1.12.1.270
+[01:36:10] [Server thread/INFO]: [ValorlessUtils] 1.21.3-63-4190ee7 (MC: 1.21.3)
+[01:36:10] [Server thread/INFO]: [ValorlessUtils] 1.21.3-R0.1-SNAPSHOT
+[01:36:10] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.0
+[01:36:10] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
+[01:36:10] [Server thread/INFO]: [HavenBags] Loading server plugin HavenBags v1.32.1.1896
+[01:36:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
+[01:36:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:36:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
+[01:36:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[01:36:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[01:36:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[01:36:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:36:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:36:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:36:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:36:12] [Server thread/INFO]: Preparing level "world"
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[01:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:36:13] [Server thread/INFO]: Preparing spawn area: 0%
+[01:36:14] [Server thread/INFO]: Preparing spawn area: 2%
+[01:36:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[01:36:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 448.3ms
+[01:36:14] [Server thread/INFO]: Preparing spawn area: 2%
+[01:36:15] [Server thread/INFO]: Preparing spawn area: 67%
+[01:36:15] [Server thread/INFO]: Time elapsed: 1981 ms
+[01:36:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:36:15] [Server thread/INFO]: Preparing spawn area: 0%
+[01:36:16] [Server thread/INFO]: Time elapsed: 396 ms
+[01:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:36:16] [Server thread/INFO]: Preparing spawn area: 0%
+[01:36:16] [Server thread/INFO]: Time elapsed: 360 ms
+[01:36:16] [Server thread/INFO]: [ValorlessUtils] Enabling ValorlessUtils v1.12.1.270
+[01:36:16] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.0
+[01:36:16] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
+[01:36:27] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[01:36:27] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
+[01:36:27] [Server thread/INFO]: [ItemEdit] # Enabled (took 10724 ms)
+[01:36:27] [Server thread/INFO]: [Images] Enabling Images v2.5.3
+[01:36:27] [Server thread/INFO]: [HavenBags] Enabling HavenBags v1.32.1.1896
+[01:36:27] [Server thread/INFO]: [HavenBags] Loading bags.
+[01:36:27] [Server thread/INFO]: [HavenBags] Loaded 0 bags. 0ms
+[01:36:27] [Server thread/INFO]: [HavenBags] Checking for updates..
+[01:36:27] [Server thread/INFO]: [spark] Starting background profiler...
+[01:36:27] [Server thread/INFO]: Done preparing level "world" (15.057s)
+[01:36:27] [Server thread/INFO]: Running delayed init tasks
+[01:36:27] [Server thread/INFO]: Done (36.950s)! For help, type "help"
+[01:36:28] [Craft Scheduler Thread - 2 - HavenBags/INFO]: [HavenBags] Up to date.
+[01:36:29] [Craft Scheduler Thread - 2 - Images/INFO]: [Images] Loaded 0 images...
+[01:38:26] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[01:38:27] [Server thread/INFO]: RakanCharming joined the game
+[01:38:27] [Server thread/INFO]: RakanCharming[/127.86.93.177:51969] logged in with entity id 22 at ([world]221.5, 116.5625, -283.5)
+[01:38:55] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[01:38:55] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
+[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.3! Trying to find NMS support
+[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R2' loaded!
+[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'ValorlessUtils' to create a bStats instance!
+[01:39:24] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
+[01:39:24] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
+[01:39:31] [Server thread/INFO]: RakanCharming lost connection: Disconnected
+[01:39:31] [Server thread/INFO]: RakanCharming left the game
+[01:39:35] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[01:39:37] [Server thread/INFO]: RakanCharming joined the game
+[01:39:37] [Server thread/INFO]: RakanCharming[/127.86.93.177:38823] logged in with entity id 335 at ([world]221.5, 116.5625, -283.5)
+[01:39:46] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[01:39:46] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
+[01:39:49] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[01:39:53] [Server thread/INFO]: RakanCharming lost connection: Disconnected
+[01:39:53] [Server thread/INFO]: RakanCharming left the game
+[01:39:56] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[01:39:57] [Server thread/INFO]: RakanCharming joined the game
+[01:39:57] [Server thread/INFO]: RakanCharming[/127.86.93.177:53129] logged in with entity id 430 at ([world]221.5, 116.5625, -283.5)
+[01:40:57] [Server thread/INFO]: Stopping the server
+[01:40:57] [Server thread/INFO]: Stopping server
+[01:40:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
+[01:40:57] [Server thread/INFO]: [HavenBags] Disabling HavenBags v1.32.1.1896
+[01:40:57] [Server thread/INFO]: [HavenBags] Saving bags.
+[01:40:57] [Server thread/INFO]: [HavenBags] Bags saved. 1ms
+[01:40:57] [Server thread/INFO]: [Images] Disabling Images v2.5.3
+[01:40:57] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.0
+[01:40:57] [Server thread/INFO]: [ValorlessUtils] Disabling ValorlessUtils v1.12.1.270
+[01:40:57] [Server thread/INFO]: Saving players
+[01:40:57] [Server thread/INFO]: RakanCharming lost connection: Server closed
+[01:40:57] [Server thread/INFO]: RakanCharming left the game
+[01:40:57] [Server thread/INFO]: Saving worlds
+[01:40:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 674 block chunks, 471 entity chunks, 0 poi chunks in world 'world' in 1.23s
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:40:58] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[01:40:58] [Server thread/INFO]: All I/O tasks to complete
+[01:40:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:40:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
