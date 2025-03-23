@@ -1,217 +1,86 @@
-[01:35:53] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[01:35:53] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[01:35:53] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[01:35:54] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Remapping plugin 'plugins/HavenBags-1.32.1.1896.jar'...
-[01:35:54] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/ItemEdit-3.7.0.jar'...
-[01:35:54] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/ValorlessUtils-1.12.1.270.jar'...
-[01:35:56] [Paper Plugin Remapper Thread - 0/INFO]: [PluginRemapper] Done remapping plugin 'plugins/HavenBags-1.32.1.1896.jar' in 2299ms.
-[01:35:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ItemEdit-3.7.0.jar' in 2374ms.
-[01:35:56] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/ValorlessUtils-1.12.1.270.jar' in 2397ms.
-[01:35:56] [ServerMain/INFO]: [PluginInitializerManager] Initialized 5 plugins
-[01:35:56] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (5):
- - HavenBags (1.32.1.1896), Images (2.5.3), ItemEdit (3.7.0), SkinsRestorer (15.6.0), ValorlessUtils (1.12.1.270)
-[01:36:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:36:04] [ServerMain/INFO]: Loaded 1337 recipes
-[01:36:04] [ServerMain/INFO]: Loaded 1448 advancements
-[01:36:04] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:36:04] [Server thread/INFO]: Loading properties
-[01:36:04] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[01:36:05] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[01:36:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[01:36:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[01:36:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[01:36:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[01:36:07] [Server thread/INFO]: Default game type: SURVIVAL
-[01:36:07] [Server thread/INFO]: Generating keypair
-[01:36:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:36:07] [Server thread/INFO]: Using epoll channel type
-[01:36:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[01:36:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[01:36:08] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loading 5 libraries... please wait
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.16.0/adventure-bom-4.16.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-api/1.3.0/examination-api-1.3.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/22.0.0/annotations-22.0.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.13.1/adventure-api-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-bom/4.13.1/adventure-bom-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.13.1/adventure-key-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.0.1/annotations-24.0.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.13.1/adventure-text-serializer-legacy-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.13.1/adventure-text-serializer-gson-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.pom
-[01:36:09] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/option/1.0.0/option-1.0.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson-parent/2.8.0/gson-parent-2.8.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.pom
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-3/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-2/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-0/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-1/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[01:36:10] [BasicRepositoryConnector-repo.maven.apache.org-0-4/INFO]: [SpigotLibraryLoader] Downloading https://repo.maven.apache.org/maven2/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/examination-api/1.3.0/examination-api-1.3.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/org/jetbrains/annotations/24.1.0/annotations-24.1.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-bukkit/4.3.2/adventure-platform-bukkit-4.3.2.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-bungeecord/4.3.2/adventure-text-serializer-bungeecord-4.3.2.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-nbt/4.13.1/adventure-nbt-4.13.1.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson-legacy-impl/4.13.1/adventure-text-serializer-gson-legacy-impl-4.13.1.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-gson/4.16.0/adventure-text-serializer-gson-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-json/4.16.0/adventure-text-serializer-json-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/option/1.0.0/option-1.0.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar
-[01:36:10] [Server thread/INFO]: [SpigotLibraryLoader] [ItemEdit] Loaded library /workspaces/MS2.0/servidor_minecraft/libraries/net/kyori/adventure-text-serializer-legacy/4.16.0/adventure-text-serializer-legacy-4.16.0.jar
-[01:36:10] [Server thread/INFO]: [ValorlessUtils] Loading server plugin ValorlessUtils v1.12.1.270
-[01:36:10] [Server thread/INFO]: [ValorlessUtils] 1.21.3-63-4190ee7 (MC: 1.21.3)
-[01:36:10] [Server thread/INFO]: [ValorlessUtils] 1.21.3-R0.1-SNAPSHOT
-[01:36:10] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.7.0
-[01:36:10] [Server thread/INFO]: [Images] Loading server plugin Images v2.5.3
-[01:36:10] [Server thread/INFO]: [HavenBags] Loading server plugin HavenBags v1.32.1.1896
-[01:36:10] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.0
-[01:36:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[01:36:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.0
-[01:36:11] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[01:36:12] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
-[01:36:12] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[01:36:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:36:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:36:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:36:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:36:12] [Server thread/INFO]: Preparing level "world"
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.0
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: dec2ffc
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[01:36:13] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[01:36:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:36:13] [Server thread/INFO]: Preparing spawn area: 0%
-[01:36:14] [Server thread/INFO]: Preparing spawn area: 2%
-[01:36:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[01:36:14] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 448.3ms
-[01:36:14] [Server thread/INFO]: Preparing spawn area: 2%
-[01:36:15] [Server thread/INFO]: Preparing spawn area: 67%
-[01:36:15] [Server thread/INFO]: Time elapsed: 1981 ms
-[01:36:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[01:36:15] [Server thread/INFO]: Preparing spawn area: 0%
-[01:36:16] [Server thread/INFO]: Time elapsed: 396 ms
-[01:36:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[01:36:16] [Server thread/INFO]: Preparing spawn area: 0%
-[01:36:16] [Server thread/INFO]: Time elapsed: 360 ms
-[01:36:16] [Server thread/INFO]: [ValorlessUtils] Enabling ValorlessUtils v1.12.1.270
-[01:36:16] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.7.0
-[01:36:16] [Server thread/INFO]: [ItemEdit] Hooking into MiniMessageAPI see https://webui.advntr.dev/
-[01:36:27] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
-[01:36:27] [Server thread/INFO]: [ItemEdit] Unable to hook into Vault
-[01:36:27] [Server thread/INFO]: [ItemEdit] # Enabled (took 10724 ms)
-[01:36:27] [Server thread/INFO]: [Images] Enabling Images v2.5.3
-[01:36:27] [Server thread/INFO]: [HavenBags] Enabling HavenBags v1.32.1.1896
-[01:36:27] [Server thread/INFO]: [HavenBags] Loading bags.
-[01:36:27] [Server thread/INFO]: [HavenBags] Loaded 0 bags. 0ms
-[01:36:27] [Server thread/INFO]: [HavenBags] Checking for updates..
-[01:36:27] [Server thread/INFO]: [spark] Starting background profiler...
-[01:36:27] [Server thread/INFO]: Done preparing level "world" (15.057s)
-[01:36:27] [Server thread/INFO]: Running delayed init tasks
-[01:36:27] [Server thread/INFO]: Done (36.950s)! For help, type "help"
-[01:36:28] [Craft Scheduler Thread - 2 - HavenBags/INFO]: [HavenBags] Up to date.
-[01:36:29] [Craft Scheduler Thread - 2 - Images/INFO]: [Images] Loaded 0 images...
-[01:38:26] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:38:27] [Server thread/INFO]: RakanCharming joined the game
-[01:38:27] [Server thread/INFO]: RakanCharming[/127.86.93.177:51969] logged in with entity id 22 at ([world]221.5, 116.5625, -283.5)
-[01:38:55] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[01:38:55] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21.3! Trying to find NMS support
-[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R2' loaded!
-[01:39:03] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'ValorlessUtils' to create a bStats instance!
-[01:39:24] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
-[01:39:24] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
-[01:39:31] [Server thread/INFO]: RakanCharming lost connection: Disconnected
-[01:39:31] [Server thread/INFO]: RakanCharming left the game
-[01:39:35] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:39:37] [Server thread/INFO]: RakanCharming joined the game
-[01:39:37] [Server thread/INFO]: RakanCharming[/127.86.93.177:38823] logged in with entity id 335 at ([world]221.5, 116.5625, -283.5)
-[01:39:46] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[01:39:46] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
-[01:39:49] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
-[01:39:53] [Server thread/INFO]: RakanCharming lost connection: Disconnected
-[01:39:53] [Server thread/INFO]: RakanCharming left the game
-[01:39:56] [User Authenticator #1/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[01:39:57] [Server thread/INFO]: RakanCharming joined the game
-[01:39:57] [Server thread/INFO]: RakanCharming[/127.86.93.177:53129] logged in with entity id 430 at ([world]221.5, 116.5625, -283.5)
-[01:40:57] [Server thread/INFO]: Stopping the server
-[01:40:57] [Server thread/INFO]: Stopping server
-[01:40:57] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.6.0
-[01:40:57] [Server thread/INFO]: [HavenBags] Disabling HavenBags v1.32.1.1896
-[01:40:57] [Server thread/INFO]: [HavenBags] Saving bags.
-[01:40:57] [Server thread/INFO]: [HavenBags] Bags saved. 1ms
-[01:40:57] [Server thread/INFO]: [Images] Disabling Images v2.5.3
-[01:40:57] [Server thread/INFO]: [ItemEdit] Disabling ItemEdit v3.7.0
-[01:40:57] [Server thread/INFO]: [ValorlessUtils] Disabling ValorlessUtils v1.12.1.270
-[01:40:57] [Server thread/INFO]: Saving players
-[01:40:57] [Server thread/INFO]: RakanCharming lost connection: Server closed
-[01:40:57] [Server thread/INFO]: RakanCharming left the game
-[01:40:57] [Server thread/INFO]: Saving worlds
-[01:40:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[01:40:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 674 block chunks, 471 entity chunks, 0 poi chunks in world 'world' in 1.23s
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[01:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[01:40:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[01:40:58] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:40:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[01:40:58] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[01:40:58] [Server thread/INFO]: All I/O tasks to complete
-[01:40:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[01:40:58] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[02:12:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[02:12:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[02:12:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[02:12:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[02:12:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[02:12:10] [ServerMain/INFO]: Loaded 1337 recipes
+[02:12:10] [ServerMain/INFO]: Loaded 1448 advancements
+[02:12:10] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[02:12:10] [Server thread/INFO]: Loading properties
+[02:12:10] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[02:12:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[02:12:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:12:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:12:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[02:12:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[02:12:13] [Server thread/INFO]: Default game type: SURVIVAL
+[02:12:13] [Server thread/INFO]: Generating keypair
+[02:12:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:12:13] [Server thread/INFO]: Using epoll channel type
+[02:12:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[02:12:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[02:12:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:12:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:12:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:12:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:12:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:12:13] [Server thread/INFO]: Preparing level "world"
+[02:12:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:12:15] [Server thread/INFO]: Preparing spawn area: 0%
+[02:12:15] [Server thread/INFO]: Preparing spawn area: 2%
+[02:12:15] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[02:12:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 538.1ms
+[02:12:16] [Server thread/INFO]: Preparing spawn area: 4%
+[02:12:16] [Server thread/INFO]: Preparing spawn area: 14%
+[02:12:17] [Server thread/INFO]: Preparing spawn area: 73%
+[02:12:17] [Server thread/INFO]: Preparing spawn area: 73%
+[02:12:17] [Server thread/INFO]: Time elapsed: 2578 ms
+[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:12:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:12:17] [Server thread/INFO]: Time elapsed: 442 ms
+[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:12:17] [Server thread/INFO]: Preparing spawn area: 0%
+[02:12:18] [Server thread/INFO]: Time elapsed: 206 ms
+[02:12:18] [Server thread/INFO]: [spark] Starting background profiler...
+[02:12:18] [Server thread/INFO]: Done preparing level "world" (4.678s)
+[02:12:18] [Server thread/INFO]: Running delayed init tasks
+[02:12:18] [Server thread/INFO]: Done (19.128s)! For help, type "help"
+[02:12:22] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[02:12:24] [Server thread/INFO]: RakanCharming joined the game
+[02:12:24] [Server thread/INFO]: RakanCharming[/127.86.93.177:42481] logged in with entity id 18 at ([world]221.5, 116.5625, -283.5)
+[02:12:32] [Server thread/INFO]: Made RakanCharming a server operator
+[02:13:09] [Server thread/INFO]: Stopping the server
+[02:13:09] [Server thread/INFO]: Stopping server
+[02:13:09] [Server thread/INFO]: Saving players
+[02:13:09] [Server thread/INFO]: RakanCharming lost connection: Server closed
+[02:13:10] [Server thread/INFO]: RakanCharming left the game
+[02:13:10] [Server thread/INFO]: Saving worlds
+[02:13:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 724 block chunks, 724 entity chunks, 0 poi chunks in world 'world' in 2.39s
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[02:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[02:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:13:12] [Server thread/INFO]: Waiting for I/O tasks to complete...
+[02:13:12] [Server thread/INFO]: All I/O tasks to complete
+[02:13:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[02:13:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
