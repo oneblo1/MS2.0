@@ -1,86 +1,120 @@
-[02:12:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[02:12:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[02:12:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[02:12:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[02:12:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:12:10] [ServerMain/INFO]: Loaded 1337 recipes
-[02:12:10] [ServerMain/INFO]: Loaded 1448 advancements
-[02:12:10] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[02:12:10] [Server thread/INFO]: Loading properties
-[02:12:10] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[02:12:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[02:12:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:12:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:12:13] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[02:12:13] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[02:12:13] [Server thread/INFO]: Default game type: SURVIVAL
-[02:12:13] [Server thread/INFO]: Generating keypair
-[02:12:13] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:12:13] [Server thread/INFO]: Using epoll channel type
-[02:12:13] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:12:13] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:12:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:12:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:12:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:12:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:12:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:12:13] [Server thread/INFO]: Preparing level "world"
-[02:12:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:12:15] [Server thread/INFO]: Preparing spawn area: 0%
-[02:12:15] [Server thread/INFO]: Preparing spawn area: 2%
-[02:12:15] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[02:12:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 538.1ms
-[02:12:16] [Server thread/INFO]: Preparing spawn area: 4%
-[02:12:16] [Server thread/INFO]: Preparing spawn area: 14%
-[02:12:17] [Server thread/INFO]: Preparing spawn area: 73%
-[02:12:17] [Server thread/INFO]: Preparing spawn area: 73%
-[02:12:17] [Server thread/INFO]: Time elapsed: 2578 ms
-[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:12:17] [Server thread/INFO]: Preparing spawn area: 0%
-[02:12:17] [Server thread/INFO]: Time elapsed: 442 ms
-[02:12:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:12:17] [Server thread/INFO]: Preparing spawn area: 0%
-[02:12:18] [Server thread/INFO]: Time elapsed: 206 ms
-[02:12:18] [Server thread/INFO]: [spark] Starting background profiler...
-[02:12:18] [Server thread/INFO]: Done preparing level "world" (4.678s)
-[02:12:18] [Server thread/INFO]: Running delayed init tasks
-[02:12:18] [Server thread/INFO]: Done (19.128s)! For help, type "help"
-[02:12:22] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
-[02:12:24] [Server thread/INFO]: RakanCharming joined the game
-[02:12:24] [Server thread/INFO]: RakanCharming[/127.86.93.177:42481] logged in with entity id 18 at ([world]221.5, 116.5625, -283.5)
-[02:12:32] [Server thread/INFO]: Made RakanCharming a server operator
-[02:13:09] [Server thread/INFO]: Stopping the server
-[02:13:09] [Server thread/INFO]: Stopping server
-[02:13:09] [Server thread/INFO]: Saving players
-[02:13:09] [Server thread/INFO]: RakanCharming lost connection: Server closed
-[02:13:10] [Server thread/INFO]: RakanCharming left the game
-[02:13:10] [Server thread/INFO]: Saving worlds
-[02:13:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[02:13:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 724 block chunks, 724 entity chunks, 0 poi chunks in world 'world' in 2.39s
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[02:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.09s
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[02:13:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[02:13:12] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[02:13:12] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[02:13:12] [Server thread/INFO]: Waiting for I/O tasks to complete...
-[02:13:12] [Server thread/INFO]: All I/O tasks to complete
-[02:13:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[02:13:12] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:59:13] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[19:59:13] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[19:59:13] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:59:13] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SkinsRestorer.jar'...
+[19:59:13] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/RedProtect-8.1.2-SNAPSHOT-b444-Spigot.jar'...
+[19:59:13] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0.jar'...
+[19:59:14] [Paper Plugin Remapper Thread - 1/INFO]: [PluginRemapper] Done remapping plugin 'plugins/LoginSecurity-Spigot-3.3.0.jar' in 741ms.
+[19:59:15] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/RedProtect-8.1.2-SNAPSHOT-b444-Spigot.jar' in 1424ms.
+[19:59:16] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SkinsRestorer.jar' in 2434ms.
+[19:59:16] [ServerMain/INFO]: [PluginInitializerManager] Initialized 3 plugins
+[19:59:16] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (3):
+ - LoginSecurity (3.3.0), RedProtect (8.1.2-SNAPSHOT), SkinsRestorer (15.6.1)
+[19:59:19] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:59:21] [ServerMain/INFO]: Loaded 1337 recipes
+[19:59:21] [ServerMain/INFO]: Loaded 1448 advancements
+[19:59:21] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[19:59:21] [Server thread/INFO]: Loading properties
+[19:59:21] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[19:59:22] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:59:22] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:59:22] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:59:23] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:59:23] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:59:23] [Server thread/INFO]: Default game type: SURVIVAL
+[19:59:23] [Server thread/INFO]: Generating keypair
+[19:59:23] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:59:23] [Server thread/INFO]: Using epoll channel type
+[19:59:23] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:59:23] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:59:24] [Server thread/INFO]: [LoginSecurity] Loading server plugin LoginSecurity v3.3.0
+[19:59:24] [Server thread/INFO]: [RedProtect] Loading server plugin RedProtect v8.1.2-SNAPSHOT
+[19:59:24] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.6.1
+[19:59:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:59:24] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.6.1
+[19:59:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:59:25] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.3.
+[19:59:26] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:59:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:59:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:59:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:59:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:59:26] [Server thread/INFO]: Preparing level "world"
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.6.1
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 8687003
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:59:26] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:59:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:59:27] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[19:59:27] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 264.5ms
+[19:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:27] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:28] [Server thread/INFO]: Time elapsed: 1227 ms
+[19:59:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:28] [Server thread/INFO]: Time elapsed: 211 ms
+[19:59:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:59:28] [Server thread/INFO]: Preparing spawn area: 0%
+[19:59:28] [Server thread/INFO]: Time elapsed: 194 ms
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 1: Initial
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 2: Add uuid mode
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 3: Fix inventories
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Applying database upgrade 4: Add name index
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:59:28] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:59:28] [Server thread/INFO]: [RedProtect] Enabling RedProtect v8.1.2-SNAPSHOT
+[19:59:29] [Server thread/INFO]: [RedProtect] Server version: 1.21.3-R0.1-SNAPSHOT
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to claim types list world
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to colors list world
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to claim types list world_nether
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to colors list world_nether
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to claim types list world_the_end
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to colors list world_the_end
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to allowed claim list world
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to allowed claim list world_nether
+[19:59:29] [Server thread/INFO]: [RedProtect] Added world to allowed claim list world_the_end
+[19:59:29] [Server thread/INFO]: [RedProtect] Created folder: plugins/RedProtect/logs
+[19:59:29] [Server thread/INFO]: [RedProtect] All configurations loaded!
+[19:59:29] [Server thread/INFO]: [RedProtect] Created language file: plugins/RedProtect/langEN-US.properties
+[19:59:29] [Server thread/INFO]: [RedProtect] Language file loaded - Using: EN-US
+[19:59:29] [Server thread/INFO]: [RedProtect] Registering commands...
+[19:59:29] [Server thread/INFO]: [RedProtect] Registering listeners...
+[19:59:29] [Server thread/INFO]: [RedProtect] - Loading world's regions...
+[19:59:29] [Server thread/INFO]: [RedProtect] - Loading world_nether's regions...
+[19:59:29] [Server thread/INFO]: [RedProtect] - Loading world_the_end's regions...
+[19:59:29] [Server thread/INFO]: [RedProtect] Auto-save Scheduler: Saving file database every 60 minutes!
+[19:59:29] [Server thread/INFO]: [RedProtect] There are 0 regions on (file) database!
+[19:59:29] [Server thread/INFO]: [RedProtect] Created GUI language file: plugins/RedProtect/guiEN-US.properties
+[19:59:29] [Server thread/INFO]: [RedProtect] Helper version: Latest
+[19:59:29] [Server thread/INFO]: [RedProtect] Loading GuiFlags for 1.14+
+[19:59:29] [Server thread/INFO]: [RedProtect] Metrics enabled! See our stats here: https://bstats.org/plugin/bukkit/RedProtect
+[19:59:29] [Server thread/INFO]: [RedProtect] Loading API...
+[19:59:29] [Server thread/INFO]: [RedProtect] API Loaded!
+[19:59:29] [Server thread/INFO]:  _   _  _   _   _   _  _ _  _  _ _ _  _
+[19:59:29] [Server thread/INFO]: |_| |_ | \ |_| |_| | |  |  |_ |   |  |_|
+[19:59:29] [Server thread/INFO]: | \ |_ |_/ |   | \ |_|  |  |_ |_  |  |_|
+[19:59:29] [Server thread/INFO]: » RedProtect v8.1.2-SNAPSHOT enabled
+[19:59:29] [Server thread/INFO]: 
+[19:59:29] [Server thread/INFO]: [spark] Starting background profiler...
+[19:59:30] [Server thread/INFO]: Done preparing level "world" (3.799s)
+[19:59:30] [Server thread/INFO]: Running delayed init tasks
+[19:59:30] [Server thread/INFO]: Done (17.868s)! For help, type "help"
+[20:02:17] [User Authenticator #0/INFO]: UUID of player RakanCharming is 86f82553-dc01-3267-af23-a4316cfe2477
+[20:02:18] [Server thread/INFO]: RakanCharming joined the game
+[20:02:18] [Server thread/INFO]: RakanCharming[/127.86.93.177:44765] logged in with entity id 124 at ([world]-118.41669252055188, 69.0, 23.88369892473769)
+[20:03:18] [Server thread/INFO]: RakanCharming lost connection: Disconnected
+[20:03:18] [Server thread/INFO]: RakanCharming left the game
