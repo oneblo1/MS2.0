@@ -103,3 +103,18 @@
 [00:29:21] [Server thread/INFO]: RakanCharming has made the advancement [Monster Hunter]
 [00:29:28] [Server thread/INFO]: RakanCharming has made the advancement [Sweet Dreams]
 [00:31:31] [Server thread/INFO]: RakanCharming has reached the goal [Zombie Doctor]
+[00:33:30] [Server thread/INFO]: RakanCharming has made the advancement [Stone Age]
+[00:33:57] [Server thread/INFO]: RakanCharming has made the advancement [Getting an Upgrade]
+[00:41:08] [Server thread/INFO]: RakanCharming has made the advancement [Ice Bucket Challenge]
+[00:41:49] [Server thread/INFO]: Made RakanCharming a server operator
+[00:41:58] [Server thread/INFO]: RakanCharming issued server command: /locate biome minecraft:cherry_grove
+[00:41:58] [Server thread/INFO]: Locating element minecraft:cherry_grove took 212 ms
+[00:42:00] [Server thread/INFO]: RakanCharming issued server command: /tp @s -2028 73 2721
+[00:42:00] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to -2027.500000, 73.000000, 2721.500000]
+[00:42:08] [Server thread/INFO]: RakanCharming suffocated in a wall
+[00:42:13] [Server thread/INFO]: RakanCharming issued server command: /gamemode creative
+[00:42:13] [Server thread/INFO]: [RakanCharming: Set own game mode to Creative Mode]
+[00:42:14] [Server thread/INFO]: RakanCharming issued server command: /tp @s -2028 73 2721
+[00:42:14] [Server thread/INFO]: [RakanCharming: Teleported RakanCharming to -2027.500000, 73.000000, 2721.500000]
+[00:42:37] [Server thread/INFO]: RakanCharming issued server command: /gamemode survival
+[00:42:37] [Server thread/INFO]: [RakanCharming: Set own game mode to Survival Mode]
