@@ -98,3 +98,8 @@
 [00:14:25] [Server thread/INFO]: RakanCharming issued server command: /lgin redlayon15
 [00:14:57] [Server thread/INFO]: Villager Villager['Nitwit'/206, uuid='70615abf-3ce5-4616-8019-3dcede577850', l='ServerLevel[world]', x=-298.63, y=68.56, z=218.72, cpos=[-19, 13], tl=191, v=true] died, message: 'Nitwit suffocated in a wall'
 [00:15:00] [Server thread/INFO]: Villager Villager['Villager'/236, uuid='a23ab169-92f3-474f-bd7b-fcaa5ab38c59', l='ServerLevel[world]', x=-326.37, y=67.56, z=235.28, cpos=[-21, 14], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[00:27:20] [Server thread/INFO]: Villager Villager['Villager'/3353, uuid='97ac9467-cc52-46b9-a46c-b0272ebceb98', l='ServerLevel[world]', x=-342.37, y=67.56, z=1181.28, cpos=[-22, 73], tl=191, v=true] died, message: 'Villager suffocated in a wall'
+[00:28:02] [Server thread/INFO]: RakanCharming has made the advancement [Local Brewery]
+[00:29:21] [Server thread/INFO]: RakanCharming has made the advancement [Monster Hunter]
+[00:29:28] [Server thread/INFO]: RakanCharming has made the advancement [Sweet Dreams]
+[00:31:31] [Server thread/INFO]: RakanCharming has reached the goal [Zombie Doctor]
